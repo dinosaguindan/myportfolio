@@ -29,7 +29,7 @@ class Contact extends Component {
                                 <ListItem>
                                     <ListItemContent style={{fontSize: '25px',fontFamily: 'Anton'}}>
                                     <i className="fa fa-envelope" aria-hidden="true"/>    
-                                    myemail@email.com</ListItemContent>
+                                    dinosaguindan@gmail.com</ListItemContent>
                                 </ListItem><ListItem>
                                     <ListItemContent style={{fontSize: '25px',fontFamily: 'Anton'}}>
                                     <i className="fa fa-skype" aria-hidden="true"/>    
